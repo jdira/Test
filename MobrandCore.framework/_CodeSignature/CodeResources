@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Xaccu8i3jTCaAWU+CPGrrRHRs4o=
+		DSugZuvZaSpWAoyU9npqhC3ihAk=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftdoc</key>
 		<data>
-		zQIjKQha+4GzuB5o6o1/bzQ6S8g=
+		2wQrVxzyLrxUIvkoGCZnuDkaCdQ=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftmodule</key>
 		<data>
-		qjZ2oXvt+te0QpARL45SR4+Stos=
+		8B8KDpo0BEpWLVJ/cxghbAKI2vg=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ClPrrUI1wlbgVcIhCIdLvAkYOl8=
+		UPzBu7OaMk6FMXpmUfOYB3IaTlg=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		T1+fHto6uEfHJnQ/Pgu7J/qHq+I=
+		IFA0aSYah+wi9nSkukJntnn0yls=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,44 +65,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zQIjKQha+4GzuB5o6o1/bzQ6S8g=
+			2wQrVxzyLrxUIvkoGCZnuDkaCdQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			YGe8tJXK4DNsSiZUPpEHGOLFRz+gLM7UIfbtKLG3bKI=
+			e70dJG/QbdfAyH87I/7srMqTHBnNSWetg5bs5rkVvgU=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qjZ2oXvt+te0QpARL45SR4+Stos=
+			8B8KDpo0BEpWLVJ/cxghbAKI2vg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kUWRk5OBNXNXLdKo5SCKwkY9/yQg9XLU6Qu/4cZ7v+0=
+			Nm8HiDslwz74SWyqxToyqjYH2/oydXlfXDaSl9gmkqw=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ClPrrUI1wlbgVcIhCIdLvAkYOl8=
+			UPzBu7OaMk6FMXpmUfOYB3IaTlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			x7TE18GCj0rRATR1ui9yD9WoRw0EL6d/g9CSnJNVVpk=
+			Wm4RB+e6aKX81pISDWKv01XvltZJVLzwZUgzPes7hdo=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T1+fHto6uEfHJnQ/Pgu7J/qHq+I=
+			IFA0aSYah+wi9nSkukJntnn0yls=
 			</data>
 			<key>hash2</key>
 			<data>
-			0hugYAFU7iLAVuXsDAQIH80SCjQgodNqLM8Tg+0gcjE=
+			MSfvmaowTSAFcWHH5NJIUAcRif1DnI6j53OE8vJqSQM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
