@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MobrandCore-Swift.h</key>
 		<data>
-		uFh9Y0YCR2vOtBhElsjJrVz0+48=
+		R5EqzCN6U8ICM4UEe1W65Rhig8o=
 		</data>
 		<key>Headers/MobrandCore.h</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8YXrJUnKmIQXMprYSMj4S3rQJ8I=
+		Xaccu8i3jTCaAWU+CPGrrRHRs4o=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftdoc</key>
 		<data>
-		43A2WXXNTYEAnmRpgaLwNvOiRCQ=
+		zQIjKQha+4GzuB5o6o1/bzQ6S8g=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftmodule</key>
 		<data>
-		pcp4BZGxfOapyl0SzJMHw4OLBlE=
+		qjZ2oXvt+te0QpARL45SR4+Stos=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		GFtCJkuxDv4BzN+r0NXF0EvxjMw=
+		ClPrrUI1wlbgVcIhCIdLvAkYOl8=
 		</data>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		GjTye6tIJaVb+1slIjYYsKdpirQ=
+		T1+fHto6uEfHJnQ/Pgu7J/qHq+I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uFh9Y0YCR2vOtBhElsjJrVz0+48=
+			R5EqzCN6U8ICM4UEe1W65Rhig8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			JQlm/BqzGhFY7XdqHS5u6Hf5UmxmHTJo8HxiVaXCxGs=
+			CipLK36dqG1rAM9tYanAi+X+7iXvDTX9tfMOCa41g2E=
 			</data>
 		</dict>
 		<key>Headers/MobrandCore.h</key>
@@ -65,44 +65,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			43A2WXXNTYEAnmRpgaLwNvOiRCQ=
+			zQIjKQha+4GzuB5o6o1/bzQ6S8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			jE4aamuCa7cwxHBcrpPwOvQOx6IHF6KY39El9sPPit0=
+			YGe8tJXK4DNsSiZUPpEHGOLFRz+gLM7UIfbtKLG3bKI=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pcp4BZGxfOapyl0SzJMHw4OLBlE=
+			qjZ2oXvt+te0QpARL45SR4+Stos=
 			</data>
 			<key>hash2</key>
 			<data>
-			dLb7TkuD3lR79D85FTHcpTyfahCeWLZ+mJjKOVkLedw=
+			kUWRk5OBNXNXLdKo5SCKwkY9/yQg9XLU6Qu/4cZ7v+0=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GFtCJkuxDv4BzN+r0NXF0EvxjMw=
+			ClPrrUI1wlbgVcIhCIdLvAkYOl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			RbH6eFRFSsMcrUADuGUN/LPml/YJ2zlkD6vYWzj2r9Y=
+			x7TE18GCj0rRATR1ui9yD9WoRw0EL6d/g9CSnJNVVpk=
 			</data>
 		</dict>
 		<key>Modules/MobrandCore.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GjTye6tIJaVb+1slIjYYsKdpirQ=
+			T1+fHto6uEfHJnQ/Pgu7J/qHq+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fpq4aNs04i2/c6NrOshHS2uTjArbedA54o4GFQX2tUo=
+			0hugYAFU7iLAVuXsDAQIH80SCjQgodNqLM8Tg+0gcjE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -102,7 +102,7 @@ typedef int swift_int4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC11MobrandCore11MobrandCore")
 @interface MobrandCore : NSObject
-+ (MobrandCore * _Nonnull)getMobrandCoreInstance:(NSString * _Nonnull)appId;
++ (MobrandCore * _Nonnull)getInstance;
 - (void)addImpression:(NSString * _Nonnull)adid placementid:(NSString * _Nonnull)placementid;
 @end
 
